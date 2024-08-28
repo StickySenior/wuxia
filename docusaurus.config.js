@@ -8,20 +8,21 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Wuxia',
+  tagline: 'TTRPG made by the genius Gnome',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://StickySenior.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/wuxia/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'StickySenior', // Usually your GitHub org/user name.
+  projectName: 'wuxia', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,7 +75,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Wuxia',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -84,11 +85,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Explore',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/StickySenior/wuxia',
             label: 'GitHub',
             position: 'right',
           },
@@ -98,46 +98,54 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contribute to World Building',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'How to contribute',
+                to: '/docs/contribution/how_to_contribute',
+              },
+              {
+                label: 'Naming conventions',
+                to: '/docs/contribution/naming_convention',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Before Playing',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Special abilities',
+                href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Character creation',
+                href: '/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Rules',
+                href: '/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Atlas of informations',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Bestiary',
+                href: '/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Martial arts',
+                href: '/',
               },
+              {
+                label: 'Cultivation methods',
+                href: '/'
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Wuxia, by Gnome. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
