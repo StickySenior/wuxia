@@ -292,28 +292,315 @@ dealt to them on their next turn.
 
 A sound based art made by the queen of song. Intended for string instruments.
 
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'}
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Block bonus while wielding an instrument +1 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 5
+    - Soul stirring note: 
+        - Pluck at the strings of your instrument sending out notes that invoke emotional chaos. 
+        - You may roll charisma instead of strength when attacking. Damage dealt this way is dealt to your enemy's soul.
+    - Disquieting song: Spend qi.
+        - Charisma rolls made by all creatures who can hear your instrument lose force equal to qi spent.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 2
+    - Ritual of mourning: 
+        - Perform a song for those passed away, appeasing lost souls and easing their torment. The living find healing
+melancholy within the notes. 
+        - Spend 4 qi. All those who join you in mourning heal 4 soul.
+    - Theme song: 
+        - Play along to an ally's action. Spend qi. They gain force to their actions equal to the qi spent.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 12
+    - Song of rapturous climax: Spend 10 qi.
+        - All those who can hear you must roll toughness against a force 15 magical shockwave as you strum
+your instrument to the choir of the universe. 
+        - Lesser buildings are sundered and glass shatters. Mortals are killed instantly.
+        - Upon ending the song you lose your body as it disintegrates into string and ash.
+</TabItem>
+</Tabs>
+
 ## Rampant venom arts 🤮
 
 Assassin martial art developed by a hidden clan of poisoners.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Rank 4', value: 'Rank 4'},
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Attack bonus to weapon attacks +1 FORCE
+    - Attack bonus to unarmed attacks +1 FORCE
+    - Block/Dodge bonus against poisoned targets +4 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Qi staining venom:
+        - You learn how to convert your own qi into a poisonous element that damages the internals and hinders qi
+circulation. When you hit an opponent with an attack that made you spend qi or was empowered by your qi they lose qi
+equal to the qi you spent.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - You begin to see things differently. Poison or venom is not dangerous or evil. Living things just are not adapted
+to handle them. Poison and venom is like a refreshing drink or a sweet candy to you.
+    - Kiss of death:
+        - Concentrate all your qi into your lips creating an extremely potent venom.
+        - When you kiss a creature spend all your qi. They must roll toughness against FORCE equal to all your qi.
+        - All damage from this technique that bypasses their defense is doubled.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Enrichment of all things dangerous: All types of poison or venom you use gain 3 FORCE
+    </TabItem>
+    <TabItem value="Rank 4" label="Rank 4" default>
+    - Soul liberating poison: 
+        - Spend qi. You create a poison that has a force equal to twice the amount of qi spent.
+</TabItem>
+</Tabs>
 
 ## Soul claiming hunter arts 🏹
 
 Assassination art made by the soul claiming clan
 
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'}
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Attack bonus to unarmed +1 FORCE
+    - Attack bonus to Weapon attacks +2 FORCE
+    - Block bonus while wielding a weapon +1 FORCE
+    - Dodge bonus +2 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 1
+    - Soul stirring strike: 
+        - Infuse horror inducing qi into your attack. If your target is damaged by the attack spend qi.
+        - Your attack deals damage to your opponent’s soul integrity equal to qi spent. This
+    - Soul hunting mark: 
+        - You may mentally place a mark on a target you can see.
+        - When within 10km of the target you may roll sense against the force of the target. 
+        - If you rolled more than them you gain 5 force on tracking them and know the cardinal 
+direction in which they are from you. This technique doesn't work on soulless targets.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 4
+    - Abyssal whispers: 
+        - When you take an insult action spend 3 qi to deal 1 damage automatically to your target’s soul.
+    - Soul rending mark: 
+        - Targets who are under the effect of the Soul hunting mark lose 2 FORCE from their block and dodge rolls against you.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 5
+    - Abyssal arsenal: 
+        - Tap into the hidden arsenal made by the masters of this martial art. 
+        - Invest 1 qi to draw a weapon from the arsenal.
+        - Weapons drawn from there give +1 force to attacks with them. 
+        - Damage dealt with these weapons damage a creatures soul integrity first. After a creatures soul is destroyed, they damage the body.
+    </TabItem>
+</Tabs>
+
 ## Jade dragon fist arts 🐉
 
-A boxing art made by law officials for the purpose of subduing evildoers.
+A boxing art made by law officials for the purpose of subduing evildoers. Practitioners use rope or nonlethal weapons.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Rank 4', value: 'Rank 4'},
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Attack bonus to unarmed +2 FORCE
+    - Attack bonus to nonlethal weapon attacks +2 FORCE
+    - Block bonus while wielding a nonlethal weapon or rope +3 FORCE
+    - Dodge bonus +1 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 3
+    - Jade dragon fist: Spend 3 qi.
+        - Your unarmed attack gains 6 FORCE. This attack cannot reduce a target below 3 body.
+    - The jade dragon blocks a cave: 
+        - When you hit a target with a unarmed strike you may spend qi. The target must roll toughness against FORCE
+equal to qi spent. If they rolled less than the FORCE one of their techniques or abilities your choice are suppressed.
+To use the move again the target they must roll toughness against the FORCE again.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 4
+    - Jade official’s arrest: Spend 1 qi.
+        - Using rope imbued with qi you attempt to bind your target. Targets bound by the rope have their arms and legs
+restrained.
+        - All attacks done by using speed or strength lose 3 FORCE as the force of a jade dragon holds your target in place.
+To maintain this technique, you must concentrate on it without attacking using strength or speed.
+        - This technique depends on the users mental state and attacks that harm the mind or stir the soul can reduce
+the force of the technique or end it outright.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 7
+    - Bellowing authority: Spend qi. 
+        - Bellow out a command with the fierceness of a jade dragon. Targets that can hear you must roll charisma
+against FORCE equal to qi spent or momentarily follow your orders.
+    </TabItem>
+    <TabItem value="Rank 4" label="Rank 4" default>
+    - Wall Force 10
+    - Reigning jade authority: 
+        - Targets under the effect of Jade official’s arrest must roll against FORCE 5 before using any techniques
+or have their effects nullified. 
+        - You no longer have to refrain from attacking while using Jade official’s arrest but mental effects can still
+affect the technique.
+    </TabItem>
+</Tabs>
 
 ## Raven Wing Arts 🐦
 
 Hailing from a remote, shadowy clan, the Raven Wing Technique harnesses the speed and cunning of ravens and crows.
 
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'}
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Attack bonus to unarmed +1 FORCE
+    - Attack bonus to Weapon attacks +2 FORCE
+    - Dodge bonus +2 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 6
+    - Shadow Strike: Move swiftly and silently, appearing and disappearing like a raven's wing in
+the night. 
+        - Spend 1 qi. You may add your speed to your attack roll. If your opponent was damaged by this attack you gain
++1 Force to dodge rolls.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 6
+    - Stride through the Abyss: 
+        - The sound of beating raven wings accompanies you as you move. 
+        - When you try to RUSH AHEAD in combat your speed roll gains 3 force. If you attack the
+target who contested you with the speed roll your attack gains an additional 3 force.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 7
+    - Umbral ascension: Spend all your qi to temporarily place yourself into a space between
+realms. 
+        - While in this state all rolls to hide yourself, defensive rolls gain FORCE equal to qi spent. 
+        - Formations lose 4 FORCE against you and ranged techniques have their FORCE halved when targeting you.
+    </TabItem>
+</Tabs>
+
 ## Stumbling Devil Arts 👹
 
 Pole-arm/movement techniques developed by a crippled demonic cultivator. Light on qi usage.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'}
+]}>
+<TabItem value="Base Bonus" label="Base Bonus">
+    No Bonus
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 4
+    - Demonic cavalier step: 
+        - You gain 4 additional speed while moving. 
+        - You fall over at the end of your movement. Your walking becomes strange and difficult
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 3
+    - Flesh shearing spearhead: 
+        - When using the PIERCE special move with a spear or pole-arm the target immediately loses 1 force on their
+defensive roll.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 3
+    - Collapsing tower of sin: 
+        - After moving and falling over, spend 1 qi. Your attack gains 4 Force as your attack emulates the death
+of the tower of sin sect.
+    </TabItem>
+</Tabs>
 
 ## Mind User Arts 🧠
 
 Martial arts style developed by those frail and weak in body but with agile minds.
 
-
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Rank 4', value: 'Rank 4'},
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Dodge Bonus against projectile weapons + 1 force.
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force ?
+    - Higher State: You can spend 1 qi to enter a higher state of being, while grounded and on your turn. This state
+ends when you take physical or mental damage, instantly if you are experiencing a mental break, die or willingly end it.
+Otherwise, you can stay in this higher state for as long as you want, even through sleep. While in this state you gain
+the following benefits: 
+        - You can levitate off the ground effortlessly. Your maximum levitation height is based on your intelligence
+score with 1 point you can levitate 5 feet off the ground and 2 points meaning you can levitate 10 feet off the ground,
+and so on. 
+        - You can use your movement to go higher than your intelligence score would normally allow you to (Such as when
+crossing a chasm.) However, if you end your turn higher than your maximum levitation height you take one mental damage.
+    - Brain Brawn: 
+        - When making an unarmed, weapon attack or contest which would normally use your strength score, you can instead
+spend one Qi point to use your intelligence score for the attack.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force ?
+    - +1 Intelligence. 
+    - Fortified Mind: 
+        - You can now optionally spend more Qi to enter your Higher State. Relatedly your Higher State no longer instantly
+ends from taking physical or mental damage (unless you die, knocked out or experience a mental break). Instead, you can
+contest the damage. 
+        - Roll force equal to the amount of qi you spent on entering your Higher State versus the damage you took. If you
+loose you are snapped out from your Higher State and receive the damage as normal. If you win you stay in the Higher
+State however you must deduct 1 from the amount of Qi you spent to enter the state and take the damage. If you win while
+only having 1 Qi left in your Higher State, you exit the state but do not take damage from the attack.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force ?
+    - + 1 Speed or Intelligence. 
+    - Speed of Though: 
+        - While you are in your Higher State you can freely spend 1 qi to change your turn order placement from being
+based on your Speed to being based on your Intelligence for this turn. If you spend Qi this way while the current turn 
+taker has a lower speed than your intelligence, you take your turn immediately.
+    </TabItem>
+    <TabItem value="Rank 4" label="Rank 4" default>
+    - Wall Force ?
+    - +1 Intelligence. And +1 to any stat of your choice 
+    - Expanded Mind: Choose one of the benefits below.
+        - Psychic Screen: 
+            - While in your Higher State you can expend Qi to form a glass like spectral psychic screen in an area you
+can see. The screen is always as thin as a human hair and square, each Qi expended in its creation makes the screen 5 
+feet wider and taller. The Body of the Psychic Screen is equal to your Intelligence score, while its force is equal to
+the Qi spent in making it, for rolls the Psychic screen uses dice that are 1 level below yours. (If you use d6 it uses
+d4). If you create the Screen inside a creature it must make a dodge against the shield, on a failure it takes damage
+and is pushed aside if still alive, otherwise it is dissected by the shield. The Screen cannot recover body and will 
+disappear if you lose your Higher State.
+        - Versatile Wits: 
+            - When you need to use an ability score other than Intelligence, Strength or Speed (For turn placement).
+You can spend half of your Intelligence (Rounded down) amount of Qi to use your intelligence score instead of the 
+original ability. 
+    - Telekinetic Strength: 
+        - Your Brain Brawn from rank 1 of this art is enhanced! After expending on Qi you can now do any action which
+would require strength with your intelligence score and the range in which you can perform the action is now 15 feet.
+    </TabItem>
+</Tabs>
