@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Wuxia',
   tagline: 'TTRPG made by the genius Gnome',
-  favicon: 'img/favicon.ico',
+  favicon: 'figures/LotusLogo.svg',
 
   // Set the production url of your site here
   url: 'https://StickySenior.github.io',
@@ -77,8 +77,8 @@ const config = {
       navbar: {
         title: 'Wuxia',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Wuxia logo',
+          src: 'figures/LotusLogo.svg',
         },
         items: [
           {
@@ -86,6 +86,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Explore',
+            href: '/docs/category/rules/'
           },
           {
             href: 'https://github.com/StickySenior/wuxia',
@@ -119,11 +120,11 @@ const config = {
               },
               {
                 label: 'Character creation',
-                href: '/',
+                href: '/docs/rules/character_creation',
               },
               {
                 label: 'Rules',
-                href: '/',
+                href: '/docs/category/rules/',
               },
             ],
           },
@@ -136,11 +137,11 @@ const config = {
               },
               {
                 label: 'Martial arts',
-                href: '/',
+                href: '/docs/martial_arts',
               },
               {
                 label: 'Cultivation methods',
-                href: '/'
+                href: '/docs/cultivation_methods'
               }
             ],
           },
