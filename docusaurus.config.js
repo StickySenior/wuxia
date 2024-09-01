@@ -73,7 +73,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'figures/land_wuxia_social_card.png',
       navbar: {
         title: 'Wuxia',
         logo: {
