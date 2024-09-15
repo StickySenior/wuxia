@@ -345,12 +345,14 @@ Assassin martial art developed by a hidden clan of poisoners.
     - Block/Dodge bonus against poisoned targets +4 FORCE
     </TabItem>
     <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 3
     - Qi staining venom:
         - You learn how to convert your own qi into a poisonous element that damages the internals and hinders qi
 circulation. When you hit an opponent with an attack that made you spend qi or was empowered by your qi they lose qi
 equal to the qi you spent.
     </TabItem>
     <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 4
     - You begin to see things differently. Poison or venom is not dangerous or evil. Living things just are not adapted
 to handle them. Poison and venom is like a refreshing drink or a sweet candy to you.
     - Kiss of death:
@@ -362,6 +364,7 @@ to handle them. Poison and venom is like a refreshing drink or a sweet candy to 
     - Enrichment of all things dangerous: All types of poison or venom you use gain 3 FORCE
     </TabItem>
     <TabItem value="Rank 4" label="Rank 4" default>
+    - Wall Force 6
     - Soul liberating poison: 
         - Spend qi. You create a poison that has a force equal to twice the amount of qi spent.
 </TabItem>

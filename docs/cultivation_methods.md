@@ -883,4 +883,74 @@ force the item crumbles into dust.
     </TabItem>
 </Tabs>
 
+## Soulbound owl method 🦉
 
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Cultivation', value: 'Cultivation'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Rank 4', value: 'Rank 4'},
+{label: 'Summary 📜', value: 'Summary'}
+]}>
+    <TabItem value="Cultivation" label="Cultivation">
+    - "Medidate", interact or catter an owl pet. Sacrifice the pet to a ritual to get +5 FORCE to your cultivation.
+    - This cultivation can be cycled. Each cycle grants a bonus to the associated rank & increases the wall difficulty. A
+cycle is considered complete if you finish the corresponding rank 4.
+    - If you change the cultivation method before a cycle is complete, you lose the progress made in the cultivation.
+    - Let _N_ be the number of cycles and the cycle 0 corresponds to the beginning of the cultivation
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 2^N + 1
+    - +1 Sense if N is odd
+    - Ephemeral Owl: Spend a minimum of 5 qi
+        - Summon an Owl creature with stats randomly arranged. It is a separate creature and has its own turn. You can dispel
+the technique and get your qi refunded.
+        - The sum of the stats has to be equal to the qi spent.
+        - You can summon up to N + 1 owls
+        - Cycle Bonus:
+            - If N > 0, you get to assign the stats to your choosing. Also, you can spend 1 qi to summon the ephemeral owl.
+            - You get +5 stats for each cycle.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 2^N + 4
+    - +1 Speed if N is even
+    - Soulbound Reversal:
+        - This technique can be activated by the summon too.
+        - At the start of the turn, switch places with the owl or vice versa. You can still perform an action but the switch
+target loses an action on its next turn.
+        - Cycle Bonus:
+            - If N > 2, you don't lose an action when the owl performs the switch but the owl does.
+            - If N > 4, you get an additional action if the creature switches with you. The additional action has to be performed
+directly after the switch.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3">
+    - Wall Force 2^N + 8
+    - +1 Strength
+    - +2 to a stat of your choosing if N is odd
+    - These techniques can be activated by the summon too. Each technique is unlocked per cycle. The Force of the technique
+is the sum of the two lowest stats of the summon. Sacrifice an owl, the qi spent to summon the owl is not refunded, and 
+grants its force to one of the following **Elemental techniques**:
+        - Inferno Shroud
+        - Frost Cloak
+        - Lightning Veil
+        - Stone Mantle
+        - Iron Encase
+        - Tempest pillar
+    </TabItem>
+    <TabItem value="Rank 4" label="Rank 4">
+    - Wall Force 2^N + 12
+    - +1 to all stats if  N is even
+    - Chimera Form Awakening:
+        - Fuse with your summon and become one, you have entered the hybrid form. Half of the sum of its stats are distributed randomly.
+        - You can use an elemental technique on yourself. Sacrificing your owl part and returning to normal after performing 
+the technique. In Hybrid form, the force of the technique is determined by the sum of the two lowest stats of the user.
+        - Cycle Bonus:
+            - If N > 2, you get to assign the stats to your choosing.
+            - If N > 2, the Hybrid form has N+5 turns of cool-down. The counter is lowered by 1 each time an elemental technique
+is used.
+    </TabItem>
+    <TabItem value="Summary" label="Summary">
+    Total Wall Force
+    </TabItem>
+</Tabs>

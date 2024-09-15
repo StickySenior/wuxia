@@ -25,9 +25,9 @@ of the walls FORCES which you have broken through combined.
 
 Forgetting a martial art is easy. You just stop practicing it and forget it lol.
 
-## Realms
+## Ranks and upgrades
 
-### List of Realms
+### List of ranks
 
 Realms or ranks is what determines, as a cultivator, the dice you roll for your ability checks. The list goes as
 follows:
@@ -58,7 +58,7 @@ resources.
 |---------------------|--------|--------------|---------------|--------------------|--------------------------|-------------|--------------|----------|---------------|------|
 | **Wall Difficulty** | 0      | 10           | 50            | 80                 | 100                      | 120         | 200          | 500      | 800           | 1000 |
 
-### Bonuses for each realm
+### Bonuses for each rank
 
 - **Mortal** : Nothing
 - **Martial arts** : Learn cultivation methods, action hero moves
@@ -71,4 +71,4 @@ resources.
 - **Sage immortal** : +100 qi. Begin to affect the laws, reincarnate
 - **God** : +100 qi. Create own laws, worlds, escape the wheel
 
-
+## List of available realms

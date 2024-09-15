@@ -1,0 +1,10 @@
+{
+  "position": 30,
+  "label": "General Information",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "General information on every available topic"
+  }
+}
