@@ -910,7 +910,7 @@ the technique and get your qi refunded.
         - You can summon up to N + 1 owls
         - Cycle Bonus:
             - If N > 0, you get to assign the stats to your choosing. Also, you can spend 1 qi to summon the ephemeral owl.
-            - You get +5 stats for each cycle.
+            - The ephemeral owl gets +5 stats for each cycle.
     </TabItem>
     <TabItem value="Rank 2" label="Rank 2">
     - Wall Force 2^N + 4
