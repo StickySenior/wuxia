@@ -883,6 +883,173 @@ force the item crumbles into dust.
     </TabItem>
 </Tabs>
 
+## Rampant life method 🦎
+
+When a mortal stricken with cancer embraced the life in themselves they found the life was them and they were life. All 
+things moved and wriggled. Anthropageanic event horizon.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Cultivation', value: 'Cultivation'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Summary 📜', value: 'Summary'}
+]}>
+    <TabItem value="Cultivation" label="Cultivation">
+    - Cultivation: Cannot cultivate. 
+    - Use anthropageanasis to gain FORCE equal to the force of the creature consumed.
+    - You gain access to anthropageanasis. Contest toughness or charisma (targets choice). 
+        - If you win you deal damage to their bodies until you assimilate the body part you chose to yourself.
+    - +2 to attacks with bone welded arsenal weapons.
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 10
+    - +3 body
+    - Adapt: 
+        - When struck by a particular element or a type of weapon you may spend 1 qi. You gain +2 FORCE against defensive
+rolls against that type of attack.
+    - Mitosis engine: 
+        - Instead of spending qi you may take damage to your body equal to the qi you have to spend.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 12
+    - +3 body
+    - Bone welded arsenal: 
+        - Your body can convert an assimilated limb into a weapon of your choice. Once converted it cannot be reverted. 
+The weapon functions as normal and possesses a special move of your choice. If the body-part contained additional special effects
+such as a venomous stinger or a light emanating crystal, the special move can include such effects.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3">
+    - Wall Force 15
+    - +3 body
+    - Event horizon:
+        - Once you have assimilated a body part that’s FORCE exceeds 50 you begin to sense the event horizon of all life.
+You may take part in the holy contest. The heavens smile upon your nature and grant you the bone crown as a sign of your
+strength.
+    - Bone crown:
+        - Roll charisma opposed by your targets charisma. This is considered an insult action and if you induce a mental
+break, the target willingly surrenders to be assimilated.
+    </TabItem>
+    <TabItem value="Summary" label="Summary">
+    - Total Wall Force 37
+    - +9 Body
+    </TabItem>
+</Tabs>
+
+## Decorators palace method 🏯
+
+A feng shui enthusiasts method developed for fun.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Cultivation', value: 'Cultivation'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Rank 4', value: 'Rank 4'},
+{label: 'Summary 📜', value: 'Summary'}
+]}>
+    <TabItem value="Cultivation" label="Cultivation">
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 8
+    - +2 Intellect
+    - Combat formation:
+        - Spend at least 2 qi. You create a messy formation at a point you can see. The FORCE of the formation equals qi
+spent. The effect of the formation can be: Wall, trap, conceal, defend or gather. 
+            - 1 Wall: Things attempting to pass through must contest FORCE
+            - 2 Trap: Attacks things that enter with FORCE
+            - 2 Conceal: Attempting to detect formation or things inside requires to contest FORCE
+            - 2 Defend: Block and dodge rolls gain a bonus equal to FORCE
+            - 1 Gather: You gain +2 qi while gathering qi inside the formation.
+        - The radius of the formation is 5ft, but you can spend qi to increase it by 5ft for 1qi. Formations marked with 1 
+end when they are used. Formations marked with 2 end when they are destroyed or when the fight ends.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 10
+    - +2 Intellect
+    - Sabotage script: Spend qi.
+        - Contest qi with the force of the formation. If you beat the formation it gets confused and does something random.
+Roll a D10 for stupidity and severity:
+        - 1-5. It just stops working for a moment
+        - 6-7. Creator gets a backlash.
+        - 8-9. The formation affects/attacks random targets
+        - 10. The formation inverts to affect an area equal to its FORCE.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3">
+    - Wall Force 12
+    - +2 Intellect
+    - Bolster and solidify: Edit a formation you/someone else made. 
+        - Spend qi. Add an additional positive effect that’s’ FORCE is equal to qi spent from the combat formation effects.
+The realm of the formation cannot be below your realm.
+    </TabItem>
+    <TabItem value="Rank 4" label="Rank 4">
+    - Wall Force 16
+    - +2 Intellect
+    - Hostile takeover: 
+        - Contest intellect with the current operator of a formation while you are within it. On a success you take over
+the formation.
+</TabItem>
+    <TabItem value="Summary" label="Summary">
+    - Total Wall Force 46
+    - +8 Intellect
+    </TabItem>
+</Tabs>
+
+## True earth mountain method ⛰️
+
+Rank 1
++3 toughness
+Weapons of stone: Spend qi. You encase your body parts in qi hardened rocks. Your unarmed strikes gain FORCE equal to qi spent. Your block rolls gain FORCE equal to half of the qi spent. This technique depends on your mental state to be maintained. Damage to your mind lowers the force of the technique and mental breaks end it immediately.
+
+Rank 2
++3 toughness
+Landslide: Spend 3 qi. You upheave a 15ft wide 30ft long mass of earth with great strength. Creatures in range must defend against a FORCE 12 attack.
+
+Rank 3
+Mountain pillar
++2 toughness
+Earth pillar: Spend 2 qi. You summon a grand pillar within sight. Allies that can see the pillar may take the Earth pillar stance.
+
+Earth pillar stance: Bypass your movement and speech actions. Your toughness is increased by 10 until the start of your next turn.
+
+Rank 4
+Boulder cloak
++1 toughness
+When you activate Weapons of stone you summon a FORCE 10 mass of stones behind you. When making an unarmed attack with weapons of stone you may choose to cast the mass of stones at a target in sight, attacking them with a FORCE 10 attack. Once used, you can spend 3 qi to resummon the boulder cloak.
+
+Rank 5
++1 intellect
+Mountain wisdom: You are bestowed with mountain wisdom. You can add half of your toughness to intellect rolls. You gain +5 FORCE to dispelling illusions with your intellect if you have not moved for more than 1 minute or 5 rounds in combat. (Your character is not aware of the time difference)
+
+Rank 6
+
+Origin cradle: Instead of entering body destruction, you enter the origin cradle state.
+
+Origin cradle state: The earth supports and helps you recover. Roll toughness against the damage that would set you below 1 body. If you rolled less than the damage done to you, you enter body destruction. If you rolled more than the damage dealt to you, you remain at 1 body and cannot take move actions or talk as you are rooted to the ground. While in this state your techniques gain 4 FORCE and you automatically activate weapons of stone and boulder cloak for no qi cost with FORCE 10.
+
+## Gate method of many worlds ⛩️
+
+Rank 1
++2 charisma
+Gate and chains: Open a hole In reality and allow a creature from a neighboring realm enter the one you're in. The creature summoned can be from one of realms in samsara. roll to see what you get or roll Intelligence against FORCE 10 to pick. The creature is obedient to you as long as its FORCE does not exceed yours. If it's FORCE is greater than yours you must bribe it with a gift equalling its FORCE.
+
+The creature has its own turn and acts after you regardless of its own speed.
+
+The creature possesses appropriate abilities:
+Demons can use anthropageanasis and possess their own body part collections, beast realm creatures have their innate abilities related to their species, hungry ghost realm creatures can eat souls and are intangible, asuras have their weapons and many arms and celestials have their spells.
+
+Rank 2
++2 intelligence
+Warbeast art: Bypass your own attack and spell actions to allow your summoned creature to attack on your turn. The creature may attack on its own turn as well.
+
+Rank 3
++1 charisma
+Gatehop: You can use your own gates. Spend qi to create a gate that's distance increases with qi spent. The gate disappears when you summon a new gate and an amount of people equal to your intellect can travel through. The gate disappears after you move too far away from it or leave it alone for too long.
+
+Rank 4
++1 intellect
+List of friends: You can summon creatures you've befriended with and rely on their services. If the creatures FORCE is higher than yours, the FORCE of the gift required is halved.
+
 ## Soulbound owl method 🦉
 
 <Tabs defaultValue="Rank 1" values={[
@@ -898,10 +1065,17 @@ force the item crumbles into dust.
     - This cultivation can be cycled. Each cycle grants a bonus to the associated rank & increases the wall difficulty. A
 cycle is considered complete if you finish the corresponding rank 4.
     - If you change the cultivation method before a cycle is complete, you lose the progress made in the cultivation.
-    - Let _N_ be the number of cycles and the cycle 0 corresponds to the beginning of the cultivation
+    - Each cycle adds a cycle difficulty. The maximum cycle is cycle 6. Here is a list of cycle difficulties:
+        - Cycle 0: Wall difficulty 1
+        - Cycle 1: Wall difficulty 2
+        - Cycle 2: Wall difficulty 4
+        - Cycle 3: Wall difficulty 8
+        - Cycle 4: Wall difficulty 16
+        - Cycle 5: Wall difficulty 32
+        - Cycle 6: Wall difficulty 64
     </TabItem>
     <TabItem value="Rank 1" label="Rank 1">
-    - Wall Force 2^N + 1
+    - Wall Force 1 + Cycle Difficulty
     - +1 Sense if N is odd
     - Ephemeral Owl: Spend a minimum of 5 qi
         - Summon an Owl creature with stats randomly arranged. It is a separate creature and has its own turn. You can dispel
@@ -913,7 +1087,7 @@ the technique and get your qi refunded.
             - The ephemeral owl gets +5 stats for each cycle.
     </TabItem>
     <TabItem value="Rank 2" label="Rank 2">
-    - Wall Force 2^N + 4
+    - Wall Force 4 + Cycle Difficulty
     - +1 Speed if N is even
     - Soulbound Reversal:
         - This technique can be activated by the summon too.
@@ -925,7 +1099,7 @@ target loses an action on its next turn.
 directly after the switch.
     </TabItem>
     <TabItem value="Rank 3" label="Rank 3">
-    - Wall Force 2^N + 8
+    - Wall Force 8 + Cycle Difficulty
     - +1 Strength
     - +2 to a stat of your choosing if N is odd
     - These techniques can be activated by the summon too. Each technique is unlocked per cycle. The Force of the technique
@@ -939,7 +1113,7 @@ grants its force to one of the following **Elemental techniques**:
         - Tempest pillar
     </TabItem>
     <TabItem value="Rank 4" label="Rank 4">
-    - Wall Force 2^N + 12
+    - Wall Force 12 + Cycle Difficulty
     - +1 to all stats if  N is even
     - Chimera Form Awakening:
         - Fuse with your summon and become one, you have entered the hybrid form. Half of the sum of its stats are distributed randomly.

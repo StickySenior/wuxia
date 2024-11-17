@@ -607,3 +607,157 @@ original ability.
 would require strength with your intelligence score and the range in which you can perform the action is now 15 feet.
     </TabItem>
 </Tabs>
+
+## Kaer Gal Striking arts 💥
+
+Developed by the war hungry Kaer Gal tribe. An art of striking wit the hands, feet, elbows, knees and head.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'}
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Bonus to unarmed attack +2 FORCE
+    - Bonus to Block/Dodge +2 FORCE
+    - Attack bonus after taking damage to body for 1 turn +2 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 4
+    - Kaer Gal essence:
+        - You possess bits of conflict power inside your body. When you win a fight you gain 1 essence. Your max essence
+is equal to your rank in this martial art.
+    - Essence crystal:
+        - When you make an unarmed attack you may add 3 of your realms die to your attack by spending a Kaer Gal essence.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 12
+    - Synchornized detonation: 
+        - When you take damage to your body, you may spend a kaer gal essence to cause a FORCE 5 explosion to erupt in a
+10ft sphere. You may spend qi to increase the radius and FORCE of the explosion equal to +5ft per qi spent.
+    - Agression principle: 
+        - Spend a Kaer Gal essence. You target all creatures in melee range with a single unarmed melee attack.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 20
+    - Kaer gal philosophy, Truth in conflict:
+        - When you make an unarmed attack against a target and it is blocked, you may detonate a Kaer Gal essence to deal
+1 damage to their bodies.
+    </TabItem>
+</Tabs>
+
+## Steel claw arts 🦅
+
+A martial art made by a nameless beggar master who, in poverty was unable to procure weapons. In light of this they decided
+to temper one of their fingers into a powerful weapon that rent flesh and punctured Armor. They were never seen again.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'}
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Attack Bonus With the Steel Claw +3 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 8
+    - Cultivate and harden a single finger into a steel claw. This claw gains +1 FORCE to attacks that attempt to puncture
+solid Armor or creatures of metal/stone and such.
+    - The claw starts as a FORCE 1 weapon. As you cultivate this art further you can increase the FORCE of the weapon and
+the attack bonus it possesses. The wall FORCE increases by 4 each time you cultivate it further. You do not gain other 
+benefits from cultivating these arts past rank 2.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 4
+    - Marrow cleansing tempering: 
+        - You may pick a special move for your claw from the weapon special moves list. Your claw also gains +2 FORCE to
+its Armor piercing and attack bonus.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force ??
+    - Your claw reaches high. Buddha strikes you down for your violence and forgives you. Make a new character with +4 to
+all stats.
+    </TabItem>
+</Tabs>
+
+## Tall spear hand arts 🔱
+
+A once proud sect of martial artists developed this art. They all died in a brutal conflict with a rival sect.
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Rank 4', value: 'Rank 4'},
+{label: 'Rank 5', value: 'Rank 5'},
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Bonus to unarmed Attacks +3 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 2
+    - Far hand thrust: 
+        - Your unarmed attacks have a range of 10ft. You can spend qi to extend the range for 5ft per qi spent.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 5
+    - The foe kept at bay: 
+        - You gain +2 FORCE to dodge rolls against the creature you hit with your unarmed strike.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 12
+    - Flowing thrust step: Spend 5 qi.
+        - You move up to 30ft and attack all creatures that you pass through with a FORCE 12 attack.
+    </TabItem>
+    <TabItem value="Rank 4" label="Rank 4" default>
+    - Wall Force 17
+    - Rolling spear foot: 
+        - You gain +3 FORCE to dodge rolls when there are attackers in front and behind you.
+    </TabItem>
+    <TabItem value="Rank 5" label="Rank 5" default>
+    - Wall Force 25
+        - True qi thrust: When you spend more than 10 qi on your attack it automatically deals 2 damage to the targets body.
+Also this attack cannot be blocked.
+    </TabItem>
+</Tabs>
+
+## Crouching axe village philosophy 🪓
+
+<Tabs defaultValue="Rank 1" values={[
+{label: 'Base Bonus', value: 'Base Bonus'},
+{label: 'Rank 1', value: 'Rank 1'},
+{label: 'Rank 2', value: 'Rank 2'},
+{label: 'Rank 3', value: 'Rank 3'},
+{label: 'Rank 4', value: 'Rank 4'},
+]}>
+    <TabItem value="Base Bonus" label="Base Bonus">
+    - Bonus to Unarmed attack +1 FORCE
+    - Block Bonus +1 FORCE
+    </TabItem>
+    <TabItem value="Rank 1" label="Rank 1">
+    - Wall Force 1
+    - Life extinguishing chop: 
+        - On an unarmed attack Spend qi. You reduce your opponents block FORCE by an amount equal to qi spent. On a hit 
+your opponents toughness is reduced by 2.
+    </TabItem>
+    <TabItem value="Rank 2" label="Rank 2">
+    - Wall Force 5
+    - Desecrate: 
+        - You can attack formations directly. They roll their FORCE against your attack. If they rolled less they explode
+lmao. This ability does not function against formations above your realm.
+    </TabItem>
+    <TabItem value="Rank 3" label="Rank 3" default>
+    - Wall Force 12
+    - All attack never defence: 
+        - You may willingly halve your block roll. If you took damage your unarmed attack gains FORCE equal to 3x the 
+damage you took on your next attack.
+    </TabItem>
+    <TabItem value="Rank 4" label="Rank 4" default>
+    - Wall Force 16
+    - Behead and behead again: Spend 3 qi.
+        - You may attack twice on your turn with an unarmed attack.
+    </TabItem>
+</Tabs>

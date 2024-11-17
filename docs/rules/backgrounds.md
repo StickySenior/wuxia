@@ -71,5 +71,5 @@ discourse. Lose 1 FORCE when you act ignorant of logic or known info.
 you gain +1 FORCE and lose it when they good things happen to them.
 - **Loving:** Choose a target you love and adore endlessly. Whenever your target enjoys good fortune or is seen in a good light
 by other you gain +1 FORCE and lose it when the opposite happens.
-- Adventurous: +1 FORCE when going off the beaten path to explore. Lose 1 FORCE when forced to backtrack.
+- **Adventurous:** +1 FORCE when going off the beaten path to explore. Lose 1 FORCE when forced to backtrack.
 

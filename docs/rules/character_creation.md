@@ -68,11 +68,12 @@ A character needs to have the following:
 2. A Cultivation method with the rank achieved by the character
    1. A rank unlocks associated techniques
 3. Qi Gathering method.
-5. Personal Characteristics
+4. Personal Characteristics
    1. Background: type of character & events related to the characters
    2. Grievances: past trauma, vengeance, quarrel
    3. Ties: connections to people the character cares about, loved ones, mentors _etc_
-6. Two Knowledge categories have to be chosen
+5. Two Knowledge categories have to be chosen
+6. Roll the Talent of your character
 
 :::note
 A character always starts with 1 in all the attributes and 2 Qi.
@@ -89,18 +90,18 @@ This template is just an example, feel free to use whatever works for you .We wi
 
 | Vitals | Value |
 |--------|-------|
-| Body   |       |
-| Mind   |       |
-| Soul   |       |
+| Body   | 5     |
+| Mind   | 2     |
+| Soul   | 2     |
 
 - **Qi Reserve:**
 
-| Ability   | Value |
-|-----------|-------|
-| Strength  |       |
-| Toughness |       |
-| Speed     |       |
-| Intellect |       |
-| Charisma  |       |
+| Ability   | Value     |
+|-----------|-----------|
+| Strength  | 1 + 2 = 3 |
+| Toughness | 1 + 1 = 2 |
+| Speed     | 1 + 3 = 4 |
+| Intellect | 1 + 1 = 2 |
+| Charisma  | 1 + 1 = 2 |
 
 
