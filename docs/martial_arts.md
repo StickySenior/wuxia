@@ -24,7 +24,7 @@ practicing the art.
 The nine petal lotus art emphasizes speed and defense first. The weapons employed by its
 practitioners are either spears, staves or swords.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
     {label: 'Base Bonus', value: 'Base Bonus'},
     {label: 'Rank 1', value: 'Rank 1'},
     {label: 'Rank 2', value: 'Rank 2'},
@@ -75,7 +75,7 @@ the force of the technique or outright end it.
 
 Martial arts of the head hardening zealots of justice.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -116,7 +116,7 @@ bolstered by qi and magic items have their force halved against your headbutts.
 
 Arts of the proud swamp guardians. Practitioners often use light weaponry such as knives or short swords.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'}
@@ -150,7 +150,7 @@ leaves lily shaped prints on their bodies. If they rolled less than you, they ta
 
 Sword techniques heavy on qi usage. Common with mercenaries. Practitioners use strictly swords or blades.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -207,7 +207,7 @@ around the sword.
 
 Mysterious arts of drunken temple monks. Practitioners often use blunt weapons such as hammers or staves.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -262,7 +262,7 @@ is still soil beneath your feet and the sky above your head.
 A hand toughening martial art devised by a powerful tribunal of bandits. Created by imitating the cannibalistic
 black wolves which reside deep in demonic mountains.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'}
@@ -292,7 +292,7 @@ dealt to them on their next turn.
 
 A sound based art made by the queen of song. Intended for string instruments.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -332,7 +332,7 @@ your instrument to the choir of the universe.
 
 Assassin martial art developed by a hidden clan of poisoners.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -374,7 +374,7 @@ to handle them. Poison and venom is like a refreshing drink or a sweet candy to 
 
 Assassination art made by the soul claiming clan
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -418,7 +418,7 @@ direction in which they are from you. This technique doesn't work on soulless ta
 
 A boxing art made by law officials for the purpose of subduing evildoers. Practitioners use rope or nonlethal weapons.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -470,7 +470,7 @@ affect the technique.
 
 Hailing from a remote, shadowy clan, the Raven Wing Technique harnesses the speed and cunning of ravens and crows.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -508,7 +508,7 @@ realms.
 
 Pole-arm/movement techniques developed by a crippled demonic cultivator. Light on qi usage.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -541,7 +541,7 @@ of the tower of sin sect.
 
 Martial arts style developed by those frail and weak in body but with agile minds.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -612,7 +612,7 @@ would require strength with your intelligence score and the range in which you c
 
 Developed by the war hungry Kaer Gal tribe. An art of striking wit the hands, feet, elbows, knees and head.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -652,7 +652,7 @@ is equal to your rank in this martial art.
 A martial art made by a nameless beggar master who, in poverty was unable to procure weapons. In light of this they decided
 to temper one of their fingers into a powerful weapon that rent flesh and punctured Armor. They were never seen again.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -686,7 +686,7 @@ all stats.
 
 A once proud sect of martial artists developed this art. They all died in a brutal conflict with a rival sect.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -726,7 +726,7 @@ Also this attack cannot be blocked.
 
 ## Crouching axe village philosophy 🪓
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Base Bonus" values={[
 {label: 'Base Bonus', value: 'Base Bonus'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},

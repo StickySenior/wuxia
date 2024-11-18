@@ -21,7 +21,7 @@ practice.
 
 ## Moonlight prance method 🌕
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -103,7 +103,7 @@ Made by a defiant flag bearing soldier during a moment of inspiration when his a
 facing defeat and he stood atop a hill. No one survived on either side of the conflict yet the
 legends of his actions lived on.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -161,7 +161,7 @@ reduce the force or break this technique.
 
 ## Royal serpent method 🐍
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -228,7 +228,7 @@ kill them.
 
 ## Grave nails and upturned soil method ⚰️
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -269,7 +269,7 @@ increase one of the corpses stats by 2 and two of them by 1 excluding charisma.
 
 A horticultural method developed by lovers of mushrooms.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -332,7 +332,7 @@ and the radius of the zone as spores in the air actively decompose everything or
 
 Made by a violent but well-meaning cult of sun worshipping cultivators.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -388,7 +388,7 @@ and souls equal to the value you rolled.
 
 ## Heaven discerning arcane method 💫
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -455,7 +455,7 @@ something leads you to become irritated until you try and divine it.
 A demonic method which an evil tree god bestowed upon its faithful servants. The evil tree god resides in the Deep woods
 range. A place where the cruelty of the natural world is brought into reality and amplified by the evil tree gods presence.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -501,7 +501,7 @@ completely end it.
 
 ## Mohist method of automata 🤖
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -546,7 +546,7 @@ and the automata gains a soul, becoming a cultivator and embarks on the path to 
 A famed method of the Roaring thunder emperor. Used in the unification of the world by the all-conquering roaring thunder
 emperor.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -618,7 +618,7 @@ targets. Additionally, all who rolled less than the force take an additional 3 d
 
 A cultivation method developed by royalty of a glacier dwelling clan.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -685,7 +685,7 @@ been made exceptionally fragile the technique gains 4 FORCE.
 
 ## Pure soul cacophony method 🎶
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -738,7 +738,7 @@ cultivators and demonic spiritual insect beasts devour each other and refining t
 immortal has left the insects and cultivators forged a pact and joined their forces leading to the creation of the Gu insects
 and the Gu refining method.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -788,7 +788,7 @@ use by biting someone.
 
 A majestic method invented by an extinct species of humanoid avians.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -837,7 +837,7 @@ lowered to 1 they are thrown into the air and attacked by FORCE 8 blades of turb
 A less-than-popular method created by crude martial artist. Practitioners of this method are thought of as barbarians or
 less civilized than other martial artists.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -888,7 +888,7 @@ force the item crumbles into dust.
 When a mortal stricken with cancer embraced the life in themselves they found the life was them and they were life. All 
 things moved and wriggled. Anthropageanic event horizon.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -940,7 +940,7 @@ break, the target willingly surrenders to be assimilated.
 
 A feng shui enthusiasts method developed for fun.
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
@@ -1052,7 +1052,7 @@ List of friends: You can summon creatures you've befriended with and rely on the
 
 ## Soulbound owl method 🦉
 
-<Tabs defaultValue="Rank 1" values={[
+<Tabs defaultValue="Summary" values={[
 {label: 'Cultivation', value: 'Cultivation'},
 {label: 'Rank 1', value: 'Rank 1'},
 {label: 'Rank 2', value: 'Rank 2'},
