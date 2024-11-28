@@ -72,3 +72,15 @@ resources.
 - **God** : +100 qi. Create own laws, worlds, escape the wheel
 
 ## List of available realms
+
+Realms are like dimension separate from each other.
+
+1. Realm of Humans
+2. Realm of Beasts
+3. Myriad prison realms
+4. Demonic realm
+5. Realm of Asura
+6. Hells
+7. Celestial Realm
+8. Hungry Ghost Realm
+
