@@ -766,7 +766,10 @@ take mental damage to negate it by an amount equal to chi spent.
     </TabItem>
     <TabItem value="Rank 3" label="Rank 3">
     - Wall Force 10
-    - +1d4 +2 Charisma, Strength, Intelligence, Toughness
+    - +2 +1d4 Charisma,
+    - +2 +1d4 Strength,
+    - +2 +1d4 Intelligence,
+    - +2 +1d4 Toughness
     - The bloom of gu:
         - Your gu finally matures and you flourish with it.
         - Your strength and toughness rolls always have +2 FORCE 
