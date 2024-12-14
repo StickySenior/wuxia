@@ -6,42 +6,42 @@ title: Character Background
 
 ## Background as an origin
 
-- **Assassin:**
-  - +3 Speed, +1 Strength
-  - A grim killer for hire. Efficient but twisted by sin.
+- **Peasant:**
+  - +2 Toughness, two +1 to either Speed, Strength or Sense
+  - Unassuming peasant. Simple but used to physical labor.
 - **Beggar:**
   - +2 Sense, two +1 to either Toughness, Intellect or Speed
   - Poor beggar. Lost all their wealth forced into a life of poverty.
 - **Criminal:**
   - +2 Speed, two +1 to either Intellect, Strength or Charisma
   - A roguish criminal. Lives outside the law. Wanted?
-- **Martial Sect disciple:**
-  - +3 Toughness, +1 Speed
-  - A disciple of a martial sect. Disciplined by master and allied to your sect.
-- **Merchant:**
-  - +3 Charisma, +1 Intellect
-  - A humble merchant. Speaks well in business. Can’t do much else.
-- **Mountain Dweller:**
-  - +3 Sense, +1 Speed
-  - A wild soul from beyond society. Prideful but uncivilized.
-- **Noble:**
-  - +2 Charisma, two +1 to either Intellect, Sense or Strength
-  - A lavish noble. Pampered with benefits, not used to hardship.
-- **Peasant:**
-  - +2 Toughness, two +1 to either Speed, Strength or Sense
-  - Unassuming peasant. Simple but used to physical labor.
-- **Refugee:**
-  - +1 to Strength, Toughness, Speed & sense
-  - A sorry escapee from a natural disaster, war or cultivator's clash. Determined to survive.
 - **Scholar:**
   - +2 Intellect, +1 Charisma, +1 Sense
   - An educated scholar. Intelligent but frail.
+- **Noble:**
+  - +2 Charisma, two +1 to either Intellect, Sense or Strength
+  - A lavish noble. Pampered with benefits, not used to hardship.
 - **Soldier:**
   - +2 Strength, two +1 to either Toughness, Speed or Intellect
   - A disciplined soldier. Trained but stiff and changed.
 - **Worshipper:**
   - +1 Intellect, +2 to a stat of your choosing
   - A worshipper of gods and immortals. Friends with sect but difficulty with infidels.
+- **Martial Sect disciple:**
+  - +3 Toughness, +1 Speed
+  - A disciple of a martial sect. Disciplined by master and allied to your sect.
+- **Assassin:**
+  - +3 Speed, +1 Strength
+  - A grim killer for hire. Efficient but twisted by sin.
+- **Merchant:**
+  - +3 Charisma, +1 Intellect
+  - A humble merchant. Speaks well in business. Can’t do much else.
+- **Mountain Dweller:**
+  - +3 Sense, +1 Speed
+  - A wild soul from beyond society. Prideful but uncivilized.
+- **Refugee:**
+  - +1 to Strength, Toughness, Speed & sense
+  - A sorry escapee from a natural disaster, war or cultivator's clash. Determined to survive.
 
 ## Background as a personality trait
 
